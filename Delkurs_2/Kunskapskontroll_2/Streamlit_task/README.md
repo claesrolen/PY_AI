@@ -19,4 +19,5 @@ and the probability distribution is also for the current digit, however all the 
 The ROI with highest Y position (top) is selected as the *Current Digit* 
 
 See demo:
-![image](https://github.com/claesrolen/PY_AI/blob/main/Delkurs_2/Kunskapskontroll_2/Streamlit_task/streamlit-MNIST-live.webm.mov)
+https://github.com/user-attachments/assets/3914fc71-537c-412e-8bd7-67f98d2e0f17
+
