@@ -19,5 +19,5 @@ and the probability distribution is also for the current digit, however all the 
 The ROI with highest Y position (top) is selected as the *Current Digit* 
 
 See demo:
-https://github.com/user-attachments/assets/3914fc71-537c-412e-8bd7-67f98d2e0f17
+https://github.com/user-attachments/assets/95294b5a-3980-487c-a28d-1c7c71762dcd
 
